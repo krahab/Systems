@@ -1,0 +1,12 @@
+Instructions : 
+~~~~~~~~~~~~~~~~~
+Add the class to an object
+Set the size of the texture
+Select the wanted texture
+
+Right click on the component, Generate
+~~~~~~~~~~~~~~~~~
+
+Have fun :D
+
+If you have questions or suggestions, Krahab#4548 on discord
